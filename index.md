@@ -5,8 +5,8 @@ header:
   text: >
     Sign Up to Our Newsletter to Learn First on How Your Texts can become more persuasive with the help of artificial intelligence.
   action: # action button is optional
-    label: Get in Touch
-    url: 'mailto:sduerr@mit.edu'
+    label: Take the survey!
+    url: https://eubntea00fe.typeform.com/to/cfaCvL1Q
 
 
 sections:
