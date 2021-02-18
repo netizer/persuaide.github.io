@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: Become More Persuaisive. 
+  title: Aid your Persuasiveness with AI. 
   text: >
     Bringing your persuasion skills to the next level with the help of artificial intelligence.
   action: # action button is optional
