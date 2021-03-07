@@ -6,7 +6,7 @@ header:
     Bringing your persuasion skills to the next level with the help of artificial intelligence.
   action: # action button is optional
     label: Persuaide now.
-    url: https://persuaide-frontend.wl.r.appspot.com/
+    url: https://persuaide-phuubdzssa-wl.a.run.app//
 
 sections:
   - type: call-to-action.html
